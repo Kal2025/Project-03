@@ -15,7 +15,11 @@ $python ebay-dl.py "search term"
 To run the specific search terms I have selected for this project, the code would be:
 ```
 $python ebay-dl.py screwdriver
+```
+```
 $python ebay-dl.py "pokemon card"
+```
+```
 $python ebay-dl.py "porsche 911"
 ```
 
